@@ -1,0 +1,90 @@
+@font-face{
+	font-family: text;
+	src: url(text.ttf);
+}
+body{
+	font-family: text;
+}
+.background{
+	background: #86DAD2;
+	width: 1500px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.head{
+	background: #5F9792;
+	height: 60px;
+	width: 1500px;
+	color: white;
+	font-size: 35px;
+}
+.auto{
+	margin-right: auto;
+	margin-left: auto;
+}
+.center{
+	text-align: center;
+}
+.photo{
+	background: #5F9792;
+	width: 800px;
+	height: 500px;
+
+}
+.m-t{
+	margin-top: 30px;
+}
+.color1{
+	background:#5F9792;
+}
+.color2{
+	background: #86DAD2;
+}
+.boxinfo{
+	background:#5F9792 ;
+	height: 700px;
+	width: 1400px;
+	margin-top: 90px;
+}
+.boxphoto{
+	background:#86DAD2;
+	height: 200px;
+	width: 210px;
+}
+.text-color{
+	color: white;
+
+}
+.df{
+	display: flex;
+}
+.m-r{
+	margin-right: 30px;
+}
+.box{
+	background: ;
+	width: 1400px;
+	height: 400px;
+}
+.m-l{
+	margin-left: 20px;
+}
+.conteiner{
+	justify-content: space-between;
+
+}
+.text{
+	color: white;
+	width: 200px;
+	height: 300px;
+	
+}
+.textinfo{
+	color: white;
+	width: 1300px;
+	height: 600px;
+	font-size: 20px;
+}
+.font-size{
+	font-size: 15px;
+}
